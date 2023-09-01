@@ -89,7 +89,7 @@
 			</plugin>
 		</plugins>
 	</build>
-	<distributionManagement>
+<distributionManagement>
     	<repository>
         	<id>central</id>
         	<name>derliodev-artifactory-primary-0-releases</name>
